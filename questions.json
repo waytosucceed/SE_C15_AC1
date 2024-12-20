@@ -1,0 +1,62 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Multiply 3.2 by 0.5.",
+    "options": [
+      "16",
+      "0.16",
+      "1.6",
+      "0.016"
+    ],
+    "correct": 2,
+    "explanation": "First, ignore the decimals and multiply the numbers as if they are whole numbers. This gives us 3 * 5 = 15. Next, account for the decimal places in the original numbers. 3.2 has one decimal place, and 0.5 has one decimal place, giving us a total of two decimal places to include in the product. Place the decimal two places from the right in our result of 160, which transforms it into 1.60. 1.60 can be simplified to 1.6, as the trailing zero does not affect the value of the decimal."
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Divide 0.045 by 0.005.",
+    "options": [
+      "90",
+      "9",
+      "0.9",
+      "0.09"
+    ],
+    "correct": 1,
+    "explanation": "Convert 0.045 and 0.005 into fractions: 0.045 = 45/1000 and 0.005 = 5/1000. Dividing: 0.045 ÷ 0.005 = (45/1000) ÷ (5/1000) = (45/1000) * (1000/5) = 45/5 = 9."
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Divide 0.875 by 5.",
+    "options": [
+      "0.175",
+      "0.0175",
+      "1.75",
+      "0.875"
+    ],
+    "correct": 0,
+    "explanation": "Convert 0.875 and 5 into fractions: 0.875 = 875/1000 and 5 = 5/1. Dividing: 0.875 ÷ 5 = (875/1000) ÷ (5/1) = (875/1000) * (1/5) = 875/5000 = 0.175."
+  },
+  {
+    "questionNo": "Q4",
+    "question": "A bakery sells cookies at $2.20 per dozen. If a customer buys 3 dozen, how much does he pay?",
+    "options": [
+      "$6.50",
+      "$6.60",
+      "$7.00",
+      "$6.80"
+    ],
+    "correct": 1,
+    "explanation": "Multiply the price per dozen by the number of dozens purchased: 2.20 * 3 = 6.60."
+  },
+  {
+    "questionNo": "Q5",
+    "question": "A syrup bottle contains 2.4 liters of syrup, and each serving is 0.15 liters. How many full servings can be poured?",
+    "options": [
+      "16 servings",
+      "18 servings",
+      "20 servings",
+      "15 servings"
+    ],
+    "correct": 0,
+    "explanation": "Divide the total syrup amount by the amount each serving holds: 2.4 ÷ 0.15 = 16 full servings."
+  }
+]
